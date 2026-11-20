@@ -4,7 +4,7 @@
 
 Module 1 · AI Fundamentals · Beginner Level
 
-[L’impact de l’IA dans les métiers créatifs : moteur d’idées ou frein à l’originalité ?](https://images.openai.com/static-rsc-4/nUi9xxqLnlDrtQPiHBKo3j0u3okyfO5RJI72lJhSCbjDv1Rd8RdIKD6UaGjJzJK5pCKN93anJ9_yai_GlJnIJohI6UVPQXGPAbF5nn-ufp2MsYGanm5x304V5LVijvKY0LElnJ9oZ6vCaWekRg0TAdF661mqh8nyaf5eurPcxcE?purpose=inline)
+(https://images.openai.com/static-rsc-4/nUi9xxqLnlDrtQPiHBKo3j0u3okyfO5RJI72lJhSCbjDv1Rd8RdIKD6UaGjJzJK5pCKN93anJ9_yai_GlJnIJohI6UVPQXGPAbF5nn-ufp2MsYGanm5x304V5LVijvKY0LElnJ9oZ6vCaWekRg0TAdF661mqh8nyaf5eurPcxcE?purpose=inline)
 
 # **Introduction to Artificial Intelligence (AI)**
 
